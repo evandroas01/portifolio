@@ -45,10 +45,12 @@ a::before{
     padding-left: 20px;
     padding-right: 20px;
     box-shadow: 5px 5px 0 rgb(14, 13, 13);
-    margin-right: 0;    
+    margin-right: 0;
+    transition: transform 100ms linear;    
 }
 
 #button:hover{
+    transform: scale(1.08);
     background-color: #09c0bd;
 
 }
