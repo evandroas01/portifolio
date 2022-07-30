@@ -1,9 +1,13 @@
 #box{
-    margin: 125px 689px 497px 89px;
+    display: inline-block;
+    /* margin: 125px 689px 497px 89px; */
     position: absolute;
     background-color: #3A4042;
-    width: 660px;
-    height: 184px;
     box-shadow: 10px 10px 0 #000;
     text-align: center;
+    padding: 42px 44px;
+}
+
+#box h1{
+    margin-bottom: 28px;
 }
