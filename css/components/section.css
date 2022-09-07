@@ -1,5 +1,4 @@
-.section {
-    
+.main-section {    
     padding-top: 50px;
     padding-bottom: 100px;
     background-color: #5BC0BE;
@@ -9,5 +8,10 @@
 
 .section .main-title{
     margin-bottom: 60px;
+}
+
+.main-section.-second {
+    background-color: #000000;
+    border-bottom: 10px solid #5BC0BE;
 }
 
